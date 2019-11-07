@@ -1,0 +1,23 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+    background-color: #F4BFF8;
+}
+
+.main {
+	width: 375px;
+	margin: auto;
+	margin-top: 300px;
+
+}
+
+.logo {
+	background-image: url("final.png");
+	width: 254px;
+	height: 254px;
+}
+
+h1 {
+	padding-left: 140px;
+	padding-top: 90px;
+}
