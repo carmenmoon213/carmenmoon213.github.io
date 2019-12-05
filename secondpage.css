@@ -1,0 +1,26 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+background-color: #F4BFF8;
+	
+}
+content{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
+.middle{
+	display: flex;
+	justify-content: center;
+}	
+p{
+	margin-top: 0px;
+	text-align: center;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+
+p.time {
+	font-size: 14px;
+	color: gray;
+}
